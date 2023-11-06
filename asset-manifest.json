@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/OlgaVOweb/wish-list.git/static/css/main.e826de0c.css",
-    "main.js": "/OlgaVOweb/wish-list.git/static/js/main.99ae1072.js",
-    "static/js/787.0299752c.chunk.js": "/OlgaVOweb/wish-list.git/static/js/787.0299752c.chunk.js",
-    "index.html": "/OlgaVOweb/wish-list.git/index.html",
-    "main.e826de0c.css.map": "/OlgaVOweb/wish-list.git/static/css/main.e826de0c.css.map",
-    "main.99ae1072.js.map": "/OlgaVOweb/wish-list.git/static/js/main.99ae1072.js.map",
-    "787.0299752c.chunk.js.map": "/OlgaVOweb/wish-list.git/static/js/787.0299752c.chunk.js.map"
+    "main.css": "/wish-list/static/css/main.e826de0c.css",
+    "main.js": "/wish-list/static/js/main.82a743cd.js",
+    "static/js/787.0299752c.chunk.js": "/wish-list/static/js/787.0299752c.chunk.js",
+    "index.html": "/wish-list/index.html",
+    "main.e826de0c.css.map": "/wish-list/static/css/main.e826de0c.css.map",
+    "main.82a743cd.js.map": "/wish-list/static/js/main.82a743cd.js.map",
+    "787.0299752c.chunk.js.map": "/wish-list/static/js/787.0299752c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e826de0c.css",
-    "static/js/main.99ae1072.js"
+    "static/js/main.82a743cd.js"
   ]
 }
